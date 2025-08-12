@@ -4,6 +4,9 @@ Shadow MultiLight – Nuke Gizmo
 By Pramod G
 https://pramod_pro.artstation.com
 
+![Shadow_ML_Node](https://github.com/user-attachments/assets/7fed5005-f2a8-4307-a3da-e2106be64ec9)
+
+
 Shadow_MultiLight — Advanced Multi-Light Shadow Control for Nuke
 
 Overview
@@ -33,3 +36,6 @@ Product renders with multiple light setups.
 Fine-tuning shadows in high-end advertising or cinematic shots.
 
 With Shadow_MultiLight, compositors gain creative freedom to balance and sculpt shadows exactly as the shot demands — all inside Nuke, without going back to 3D.
+
+![Shadow_MultiLight](https://github.com/user-attachments/assets/138b8be8-3fc8-46b5-82e0-1491ac907051)
+
